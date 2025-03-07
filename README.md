@@ -31,7 +31,7 @@ Xóa công việc
 
 #### Bước 1: Clone repository  
 ```bash  
-git clone https://github.com/your-repo/to-do-list.git  
+git clone https://github.com/your-repo/to-do-list.git  ](https://github.com/kz16sep/flask-tiny-app
 cd to-do-list  
 ```
 
